@@ -5,7 +5,7 @@ Welcome to the Cohort Analysis in SQL project! This repository contains SQL scri
 ## 🗂 Project Structure
 
 - `Cohort Analysis in SQL.sql`: Main SQL script containing the cohort analysis implementation.
-- Sample retail sales dataset (implicit in the SQL queries).
+- `Online Retail.csv`: Raw retail transaction dataset.
 
 ## 🎯 Objective
 
